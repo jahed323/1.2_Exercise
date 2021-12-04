@@ -12,11 +12,11 @@ h. categorical binary variable
 i. categorical nominal variable  
 j. continuous ratio variable  
 
-Task 4 Answer:
+Task 4 Answer:  
 A measurement error occurs when the actual value of something is different than the measured value of the same thing.
 The measurement error in the friends CD counting device is 6 CDs.
 
-Task 5 Answer:
+Task 5 Answer:  
 Normal Distribution:
 ![image](https://user-images.githubusercontent.com/89809634/144720134-0001b0d2-b776-4a7b-b05b-2565a29ed9a6.png)
 
