@@ -1,6 +1,6 @@
 # 1.2_Exercise
 
-Task 3 Answers:
+Task 3 Answers:  
 a. discrete ratio variable
 b. nominal variable
 c. ordinal variable
@@ -17,7 +17,6 @@ A measurement error occurs when the actual value of something is different than 
 The measurement error in the friends CD counting device is 6 CDs.
 
 Task 5 Answer:
-
 Normal Distribution:
 ![image](https://user-images.githubusercontent.com/89809634/144720134-0001b0d2-b776-4a7b-b05b-2565a29ed9a6.png)
 
